@@ -327,6 +327,5 @@ class MyCustomScrollBehavior extends MaterialScrollBehavior {
   Widget buildOverscrollIndicator(
       BuildContext context, Widget child, ScrollableDetails details) {
     return child;
-    return child;
   }
 }
